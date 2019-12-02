@@ -1,0 +1,7 @@
+# AMC API Key
+amc_api_key = 'BFFD6A1D-468E-423A-9B91-616E4E328FC4'
+
+# Yelp API Key
+yelp_api_key = 'RHcXasJZPNV5V98j2LK_FWtntEmCfasTPLVdLDCJYyB9-hiRXr8uWBXTjnQzRjAgfQO5kfdA65oyTzjxcupFDaIQlfUksGougMMC8R8cwXjXYAwWc6uqKmJw_AnTXXYx'
+
+# IMDB API Key
